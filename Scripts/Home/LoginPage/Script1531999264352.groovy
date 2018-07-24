@@ -20,7 +20,7 @@ import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 import internal.GlobalVariable as GlobalVariable
 import sun.util.logging.resources.logging as logging
 
-WebUI.openBrowser('')
+WebUI.openBrowser('imran')
 
 WebUI.navigateToUrl('https://www.popssoftware.com/')
 
