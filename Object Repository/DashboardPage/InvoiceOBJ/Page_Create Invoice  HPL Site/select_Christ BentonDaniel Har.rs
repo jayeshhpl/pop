@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_Christ BentonDaniel Har</name>
+   <tag></tag>
+   <elementGuidId>af47e43a-977f-42d8-8834-6f80d4ada878</elementGuidId>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control ng-untouched ng-not-empty ng-dirty ng-valid-parse ng-valid ng-valid-required</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>customer_id</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>customer_id</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-model</name>
+      <type>Main</type>
+      <value>invoice.customer_id</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-required</name>
+      <type>Main</type>
+      <value>true</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>required</name>
+      <type>Main</type>
+      <value>required</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                        Christ BentonDaniel Hardmank pPrit Cust test priCheck Contractortest_1 Test_1LastRetest LiveRetest Again testRetest Pri 12121test testretest test retestPhone number TestERER REERRTest pn PNTest DOL Test DOLTest iiii test iiiiTest Project TestEmp Test Test EMpTest Testretest addn info infoPp ColaradoTest TestDOL DOLjohn doeIra Romerodhiraj_cust karkera_custProject WithoutBillingRetest Pri 12121DOL1 CheckDOL without DOL Checkdhiraj_cust karkera_custretest Projtestnew billing billingAddr test Testfirsttest lasttestProject Details BillingInsuranceabc xyztest testmy ProjTestInsBill Ins BillNew Pro projFinalINS BIL Ins BIlTest category TestTest Contact test ContactNew proj KPNew proj KPCategory search TestWithout Business CategoryPhone number test testSacha JohnstonPhone number TestTestnew testTest Add test AddTestSubsProj SubsProjTax Cal CaliPad test iPad testTime check Time checkTime check again Time check againEmployee time retest retestTest email Test emailTest test Lst nameadasdas sadasdasTest TestTest project TestRetest retestemail retest retestRetest retestTest Test TestJeniffer LopesJeniffer Lopesdasdsd dasdsddasdsd dasdsdTest mobile MobNew lead RetestNew proj live TestNew proj live TestNew lead RetestNew lead RetestInv test TeestProj retestProj newtestemp123 retest1John TestTest JohnRetest JohnRetest JohnLeads RetestAbc 'Dmen retestAbc 'Dmen retestMary DoeMavrecik D'mac-Mader Testtest testTest Test1234567789 12354566777123 Josh testJohn'Test D'melloJosh Testtest testRichard HouseTest testasdsa dsadasKermit ThompsonTest P Princetestsedf JoerTest Doeasdasdas sdasdasslade Wilsonslade Wilsonsadsadsad sdsadsadsadadsadsads sdsadsaval boleval boleval boleval bole
+                    </value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;customer_id&quot;)</value>
+   </webElementProperties>
+</WebElementEntity>
